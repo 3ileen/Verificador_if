@@ -12,7 +12,6 @@ def sentencia_if(expression):
 sentencia = "if x > 0:"
 #sentencia = input("Ingresa una sentencia:")
 if sentencia_if(sentencia):
-    #print("La sentencia no pertenece al lenguaje de Python o esta sintacticamente mal.")
     print("La sentencia si pertenece al lenguaje de Python.")
 else:
     print("La sentencia no pertenece al lenguaje de Python o esta sintacticamente mal.")
